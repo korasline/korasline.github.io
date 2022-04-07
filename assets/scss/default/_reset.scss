@@ -305,3 +305,14 @@ hr {
     height: 1px;
     margin: 0 0 24px;
 }
+
+.calendar {
+    margin: auto;
+    position: relative;
+    @media screen and (max-width: 767px) {
+      width: 100%;
+    }
+    height: 100%;
+    width: 100%;
+  
+  }
