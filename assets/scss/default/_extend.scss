@@ -406,59 +406,5 @@ p:last-child {
     font-weight: 700 !important;
 }
 
-.fc .fc-list-event:hover td {
-    background-color: rgb(224, 36, 36)
-  }
-  
-  .fc .fc-list{ /* Date bar */
-    border: 0px;
-  }
-  
-  .fc .fc-button-primary{ /* Date bar */
-    // background-color: rgb(230, 7, 7);
-    border-color: white
-  }
-  
-  .fc .fc-button{ /* Date bar */
-    background-color: black;
-    border-color: white
-  }
-  
-  .fc .fc-button-primary:disabled{ /* Date bar */
-    background-color: black;
-    border-color: white
-  }
-  
-  .fc .fc-button-primary:hover{ /* Date bar */
-    background-color: black;
-    border-color: white
-  }
-  
-  .fc table{ /* Event text color */
-    color: #ffffff;
-    @media screen and (max-width: 767px) {
-    font-size: 1em;
-    }
-    font-size: 1.5em;
-  }
-  
-  .fc .fc-list-day-cushion{ /* Date bar */
-    // color: #ff0000;
-    background-color: rgb(0, 0, 0);
-  }
-  
-  .fc .fc-cell-shaded{ /* Date bar */
-    // color: #ff0000;
-    background-color: rgb(0, 0, 0);
-  }
-  
-  
-  .fc .fc-list-day-text{ /* Date Text Color */
-    color: #000000;
-  }
-  
-  .fc .fc-list-day-side-text{ /* Date bar */
-    color: #ffffff;
-  }
   
   
