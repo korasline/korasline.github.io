@@ -233,11 +233,12 @@ Footer Styles
     }
     .text {
         p {
-            font-size: 14px;
+            font-size: 5px;
+            color: gray;
             a {
                 transition: 0.3s;
                 &:hover {
-                    color: var(--color-primary);
+                    color: gray;
                 }
             }
         }
